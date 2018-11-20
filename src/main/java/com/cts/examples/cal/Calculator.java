@@ -15,7 +15,7 @@ public class Calculator implements ICalculator {
 	 
 	public int multiplication(int a, int b) {
 		 
-		return b * a;
+		return a * b;
 	}
 
 	public int divison(int a, int b)  {
