@@ -7,7 +7,7 @@ public interface ICalculator {
 
 	int multiplication(int a, int b);
 
-	int divison(int a, int b);
+	int divison(int b, int a;
 
 	boolean equalIntegers(int a, int b);
 }
